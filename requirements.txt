@@ -1,0 +1,10 @@
+numpy
+torch
+pillow
+matplotlib
+imageio
+requests
+pyyaml
+ipykernel
+nibabel
+opencv-contrib-python
