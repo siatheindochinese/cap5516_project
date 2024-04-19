@@ -1,5 +1,5 @@
 #!/bin/bash
-for i in {1...484}
+for (( i=1; i<=484; i++ ))
 do
-   python quantitative.py --idx $i 120
+   python quantitative.py --idx $i --res 120
 done
