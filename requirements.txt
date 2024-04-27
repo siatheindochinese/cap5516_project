@@ -8,3 +8,4 @@ pyyaml
 ipykernel
 nibabel
 opencv-contrib-python
+jupyter
